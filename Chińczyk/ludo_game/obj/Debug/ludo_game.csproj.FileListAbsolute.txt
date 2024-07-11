@@ -1,0 +1,11 @@
+C:\Users\kinga\source\repos\ludo_game\ludo_game\bin\Debug\ludo_game.exe.config
+C:\Users\kinga\source\repos\ludo_game\ludo_game\bin\Debug\ludo_game.exe
+C:\Users\kinga\source\repos\ludo_game\ludo_game\bin\Debug\ludo_game.pdb
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.csproj.AssemblyReference.cache
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.Properties.Resources.resources
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.csproj.GenerateResource.cache
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.csproj.CoreCompileInputs.cache
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.exe
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.pdb
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.Form1.resources
+C:\Users\kinga\source\repos\ludo_game\ludo_game\obj\Debug\ludo_game.Message_ComboBox.resources
